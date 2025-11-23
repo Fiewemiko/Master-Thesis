@@ -1,0 +1,107 @@
+{
+    "indicators": [
+      {
+        "name": "Realny wzrost PKB (% r/r)",
+        "values": {
+          "2021": {
+            "oryginalne": 6.9,
+            "eurostat_gus": 6.9
+          },
+          "2022": {
+            "oryginalne": 5.1,
+            "eurostat_gus": 5.3
+          },
+          "2023": {
+            "oryginalne": 0.2,
+            "eurostat_gus": 0.1
+          }
+        }
+      },
+      {
+        "name": "Inflacja CPI (średnioroczna, %)",
+        "values": {
+          "2021": {
+            "oryginalne": 5.1,
+            "eurostat_gus": 5.1
+          },
+          "2022": {
+            "oryginalne": 14.4,
+            "eurostat_gus": 14.4
+          },
+          "2023": {
+            "oryginalne": 11.5,
+            "eurostat_gus": 11.4
+          }
+        }
+      },
+      {
+        "name": "Stopa referencyjna NBP (średnioroczna, %)",
+        "values": {
+          "2021": {
+            "oryginalne": 0.3,
+            "eurostat_gus": null
+          },
+          "2022": {
+            "oryginalne": 5.3,
+            "eurostat_gus": null
+          },
+          "2023": {
+            "oryginalne": 6.4,
+            "eurostat_gus": null
+          }
+        }
+      },
+      {
+        "name": "Stopa bezrobocia (BAEL / Eurostat, %)",
+        "values": {
+          "2021": {
+            "oryginalne": 3.4,
+            "eurostat_gus": 3.4
+          },
+          "2022": {
+            "oryginalne": 5.2,
+            "eurostat_gus": 2.9
+          },
+          "2023": {
+            "oryginalne": 5.3,
+            "eurostat_gus": 2.8
+          }
+        }
+      },
+      {
+        "name": "Deficyt sektora GG (% PKB)",
+        "values": {
+          "2021": {
+            "oryginalne": -1.7,
+            "eurostat_gus": -1.8
+          },
+          "2022": {
+            "oryginalne": -5.3,
+            "eurostat_gus": -5.3
+          },
+          "2023": {
+            "oryginalne": -5.3,
+            "eurostat_gus": -5.3
+          }
+        }
+      },
+      {
+        "name": "Dług publiczny (GG, % PKB)",
+        "values": {
+          "2021": {
+            "oryginalne": 53.0,
+            "eurostat_gus": 53.0
+          },
+          "2022": {
+            "oryginalne": 48.8,
+            "eurostat_gus": 48.8
+          },
+          "2023": {
+            "oryginalne": 49.7,
+            "eurostat_gus": 49.7
+          }
+        }
+      }
+    ]
+  }
+  
